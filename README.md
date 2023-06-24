@@ -4,8 +4,8 @@
 <h2>Personal Projects:</h2>
 
 - <b>Python</b>
-  - [Othello](https://github.com/#) - Command prompt game, 0-2 players.
-  - [Pong](https://github.com/#) - Utilizes Pygame, 1-2 players.
+  - [Othello](https://github.com/kipppppp/Othello) - Command prompt game, 0-2 players.
+  - [Pong](https://github.com/kipppppp/Pong_pygame) - Utilizes Pygame, 1-2 players.
 - <b>C++</b>
   - [Minesweeper](https://github.com/#) - Command prompt game, 1 player.
 
