@@ -7,8 +7,8 @@
   - [Othello](https://github.com/kipppppp/Othello) - Command prompt game, 0-2 players.
   - [Pong](https://github.com/kipppppp/Pong_pygame) - Utilizes Pygame, 1-2 players.
 - <b>C++</b>
-  - [Encryption/Decryption Algorithm](https://github.com/#) - Encrypts a message, then uses brute force to decrypt it.
-  - [Minesweeper](https://github.com/kipppppp/MineSweeper/tree/main) - Command prompt game, 1 player.
+  - [Encryption/Decryption Algorithm](https://github.com/kipppppp/DecryptionAlgorithm) - Encrypts a message, then uses brute force to decrypt it.
+  - [Minesweeper](https://github.com/kipppppp/MineSweeper) - Command prompt game, 1 player.
 
 <h2>Connect with me:</h2>
 
