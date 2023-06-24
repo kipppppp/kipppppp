@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kyle!</h1>
 <p>Analytical chemist transitioning to a career in Computer Science.</p>
-<p>Currently a full time student at OSU.</p>
+<p>Currently pursuing a B.S. in Computer Science at OSU.</p>
 <h2>Personal Projects:</h2>
 
 - <b>Python</b>
