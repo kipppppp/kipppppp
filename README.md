@@ -7,7 +7,7 @@
   - [Othello](https://github.com/kipppppp/Othello) - Command prompt game, 0-2 players.
   - [Pong](https://github.com/kipppppp/Pong_pygame) - Utilizes Pygame, 1-2 players.
 - <b>C++</b>
-  - [Minesweeper](https://replit.com/@KyleGonzales2/Minesweeper-Demo) - Command prompt game, 1 player.
+  - [Minesweeper](https://replit.com/@KyleGonzales2/Minesweeper-Demo)(Repl Demo) - Command prompt game, 1 player.
 
 <h2>Connect with me:</h2>
 
