@@ -4,6 +4,7 @@
 <h2>Personal Projects:</h2>
 
 - <b>Python</b>
+  - [Custom HashMap](https://github.com/kipppppp/HashMap) - Functional HashMap Class & pytest practice.
   - [Othello](https://github.com/kipppppp/Othello) - Command prompt game, 0-2 players.
   - [Pong](https://github.com/kipppppp/Pong_pygame) - Utilizes Pygame, 1-2 players.
 - <b>C++</b>
