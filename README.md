@@ -3,6 +3,8 @@
 <p>Currently pursuing a B.S. in Computer Science at OSU.</p>
 <h2>Personal Projects:</h2>
 
+- <b>C</b>
+  - [Intel 8080 Microprocessor Emulator](https://github.com/kipppppp/intel8080_emulator) - In progress.
 - <b>Python</b>
   - [Custom HashMap](https://github.com/kipppppp/HashMap) - Functional HashMap Class & pytest practice.
   - [Othello](https://github.com/kipppppp/Othello) - Command prompt game, 0-2 players.
